@@ -59,6 +59,7 @@ section{
     color:#fff;
     cursor: pointer;
     font-size: 1.7rem;
+    border-radius: 0.5rem;
 }
 
 .btn:hover{
@@ -71,7 +72,9 @@ header{
     top:0; left:0; bottom:0;
     /* background:#222; */
     /* background:#1c174b; */
-    background:#070033;
+    /* background:#070033; */
+    /* background: #0c1c9c; */
+    background-color: var(--light-color);
     display: flex;
     align-items: center;
     justify-content: space-between;
