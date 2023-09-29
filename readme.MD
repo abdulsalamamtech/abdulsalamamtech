@@ -13,9 +13,11 @@
 
 <a href="#" width="200" height="200" style="border-radius:10px" align="center">
   <img width=100% height="100%" src="./img/imd-first.jpg.jpg"/>
+   <br>
 </a>
 
 <br>
+
 
 >>>**Greetings,**
 
@@ -30,12 +32,13 @@ My expertise lies in creating seamless websites and proficiently managing databa
 <div align="center">
   <br>
   <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamamtech&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+
+ <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
 
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamamtech&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
 
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulsalamamtech&theme=github_dark&show_icons=true" />
@@ -49,7 +52,7 @@ My expertise lies in creating seamless websites and proficiently managing databa
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,blade,git,github" />
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,git,github" />
     </a>
   </p>
 </div>
