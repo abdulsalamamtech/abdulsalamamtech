@@ -15,9 +15,12 @@
   <img width=100% height="100%" src="./img/imd-first.jpg.jpg"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Abdulsalam;I%27m+a+Software%20Developer;You%27re+Welcome!+%E3%83%84)
 
 >>>**Greetings,**
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Abdulsalam;I%27m+a+Software%20Developer;You%27re+Welcome!+%E3%83%84)
+
 
 I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in Back-End Web Development. 
 My expertise lies in creating seamless websites and proficiently managing databases for both individual clients and esteemed companies.
