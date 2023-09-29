@@ -1,3 +1,7 @@
+<a href="#">
+  <img width=100% height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0c1c9c&height=120&section=header"/>
+</a>
+
 
 **Abdulsalam Abdulrahman**
 
@@ -9,22 +13,21 @@
 
 >>>**Greetings,**
 
-I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in Back-End Web Development. My expertise lies in creating seamless websites and proficiently managing databases for both individual clients and esteemed companies.
+I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in Back-End Web Development. 
+My expertise lies in creating seamless websites and proficiently managing databases for both individual clients and esteemed companies.
 
 
 ![Abdulsalam Amtech](./img/imd-first.jpg.jpg)
-
-
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+  <img width=100% height="200" src="./img/imd-first.jpg.jpg"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdulsalam;I'm+a+Software Developer;I'm+a+Software+Engineering+Student;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdulsalam;I'm+a+Software Developer;Be+Welcome!+ツ)
 
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalanamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0c1c9c&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0c1c9c&hide_border=true"/>
   </a>
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamamtech&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
@@ -40,7 +43,7 @@ I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in 
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,python,git,github" />
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,restapi,git,github" />
     </a>
   </p>
 </div>
@@ -50,7 +53,7 @@ I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in 
   
 <div> 
   <p align="center">
-	<a href="https://www.linkedin.com/abdulsalamamtech/"><img title="linkedin.com/abdulsalamamtech/" src="https://img.shields.io/badge/Ilinkedin-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+	<a href="https://www.linkedin.com/abdulsalamamtech/"><img title="linkedin.com/abdulsalamamtech/" src="https://img.shields.io/badge/linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 	<a href="https://www.facebook.com/abdulsalamamtech/"><img title="facebook.com/abdulsalamamtech" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
     </a>
@@ -78,9 +81,13 @@ Sincerely,
 **Contact Me**
 
 [Whatsapp](https://wa.me/2349091922467)
+
 [Facebook](https://www.facebook.com/AbdulsalamAmtech)
+
 [Linkedin](https://www.linkedin.com/AbdulsalamAmtech)
+
 [Twitter](https://www.twitter.com/AbdulsalamAmtech)
+
 [Email @ AbdulsalamAmtech@gmail.com](mailto:AbdulsalamAmtech@gmail.com)
 
 <a href="#">
