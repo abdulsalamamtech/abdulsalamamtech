@@ -1,6 +1,3 @@
-<a href="#">
-  <img width=100% height="200" src="https://capsule-render.vercel.app/api?type=waving&color=0c1c9c&height=120&section=header"/>
-</a>
 
 
 **Abdulsalam Abdulrahman**
@@ -18,20 +15,23 @@ My expertise lies in creating seamless websites and proficiently managing databa
 
 
 ![Abdulsalam Amtech](./img/imd-first.jpg.jpg)
-<a href="#">
-  <img width=100% height="200" src="./img/imd-first.jpg.jpg"/>
+<a href="#" width="250" height="250" align="center">
+  <img width=100% height="100%" src="./img/imd-first.jpg.jpg"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Abdulsalam;I'm+a+Software Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Abdulsalam;I%27m+a+Software%20Developer;You%27re+Welcome!+%E3%83%84)
+
 
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0c1c9c&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
+
   <a href="#">
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamamtech&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
   </a>
+
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulsalamamtech&theme=github_dark&show_icons=true" />
   </a>
@@ -39,11 +39,12 @@ My expertise lies in creating seamless websites and proficiently managing databa
    
 <br>
 <br>
-  
+
+<!-- Skills Image Icons-->
 <div style="display: inline_block">
   <p align="center">
-	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,restapi,git,github" />
+    <a href="#">
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,api,git,github" />
     </a>
   </p>
 </div>
