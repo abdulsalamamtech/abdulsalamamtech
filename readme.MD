@@ -52,7 +52,7 @@ My expertise lies in creating seamless websites and proficiently managing databa
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,git,github" />
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,jquery,php,laravel,mysql,git,github" />
     </a>
   </p>
 </div>
