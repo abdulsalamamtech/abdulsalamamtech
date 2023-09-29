@@ -8,18 +8,19 @@
 
 ---
 
->>>**Greetings,**
 
-I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in Back-End Web Development. 
-My expertise lies in creating seamless websites and proficiently managing databases for both individual clients and esteemed companies.
+<!-- ![Abdulsalam Amtech](./img/imd-first.jpg.jpg) -->
 
-
-![Abdulsalam Amtech](./img/imd-first.jpg.jpg)
-<a href="#" width="250" height="250" align="center">
+<a href="#" width="200" height="200" style="border-radius:10px" align="center">
   <img width=100% height="100%" src="./img/imd-first.jpg.jpg"/>
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Abdulsalam;I%27m+a+Software%20Developer;You%27re+Welcome!+%E3%83%84)
+
+>>>**Greetings,**
+
+I am Abdulsalam Abdulrahman, an accomplished Software Developer specializing in Back-End Web Development. 
+My expertise lies in creating seamless websites and proficiently managing databases for both individual clients and esteemed companies.
 
 
 <div align="center">
@@ -44,7 +45,7 @@ My expertise lies in creating seamless websites and proficiently managing databa
 <div style="display: inline_block">
   <p align="center">
     <a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,api,git,github" />
+      <img align="center" src="https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,mysql,blade,git,github" />
     </a>
   </p>
 </div>
