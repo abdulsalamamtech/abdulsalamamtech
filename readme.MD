@@ -62,7 +62,7 @@ My expertise lies in creating seamless websites and proficiently managing databa
   
 <div> 
   <p align="center">
-	<a href="https://www.linkedin.com/abdulsalamamtech/"><img title="linkedin.com/abdulsalamamtech/" src="https://img.shields.io/badge/linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+	<a href="https://www.linkedin.com/in/abdulsalamamtech/"><img title="linkedin.com/abdulsalamamtech/" src="https://img.shields.io/badge/linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 	<a href="https://www.facebook.com/abdulsalamamtech/"><img title="facebook.com/abdulsalamamtech" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
     </a>
