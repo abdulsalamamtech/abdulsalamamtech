@@ -5,7 +5,7 @@
 ***[Abdulsalam Amtech](https://bit.ly/abdulsalamamtech)***
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0c71d0f0-09d0-43e4-8c38-0ac4e6c8e242/deploy-status?branch=main)](https://app.netlify.com/sites/abdulsalamamtech/deploys)
-![Vercel](https://vercelbadge.vercel.app/api/[abdulsalamamtech]/[licence-hub])
+![Vercel](https://vercelbadge.vercel.app/api/[https://github.com/abdulsalamamtech]/[licence-hub])
 
 ---
 
