@@ -34,3 +34,20 @@ document.querySelectorAll('a').forEach(links =>{
     }
 
 });
+
+
+
+// Set this year
+let thisYear = new Date().getFullYear();
+console.log(thisYear)
+
+// Set current year
+document.querySelectorAll('.this-year').forEach(content => {
+    content.innerText = thisYear;
+})
+
+// Set current age
+// document.getElementById('age').innerText = (thisYear - 2001);
+
+// Set yearOfExperience
+// document.getElementById('yearOfExperience').innerText = (thisYear - 2022);
