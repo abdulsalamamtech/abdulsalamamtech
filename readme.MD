@@ -77,7 +77,7 @@ I'm currently navigating through the relm of Blockchain technology and AI
 
 
 
-Throughout my career, I have amassed extensive experience collaborating with diverse individuals and industries, allowing me to adeptly navigate the dynamic landscape of Web Development. Proficient in an array of cutting-edge technologies, including PHP, MySQL, JavaScript, JQuery, Tailwind, APIs, CSS, HTML, and version control systems like GitHub, I am well-equipped to tackle complex challenges with outstanding results.
+Throughout my career, I have amassed extensive experience collaborating with diverse individuals and industries, allowing me to adeptly navigate the dynamic landscape of Web Development. Proficient in an array of cutting-edge technologies, including Laravel, PHP, MySQL, JavaScript, JQuery, Tailwind, APIs, CSS, HTML, and version control systems like GitHub, I am well-equipped to tackle complex challenges with outstanding results.
 
 I'm good at working harmoniously within cross-functional teams, I am driven by a relentless pursuit of excellence and a passion for crafting exceptional projects. My curiosity allow me to stay abreast of emerging technologies, consistently striving to improve my skill set.
 
