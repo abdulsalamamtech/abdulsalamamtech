@@ -42,7 +42,7 @@ I'm currently navigating through the relm of Blockchain technology and AI
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abdulsalamamtech&theme=dark&hide_border=false)<br/>
 
 
   <a>
