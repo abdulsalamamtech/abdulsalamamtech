@@ -42,6 +42,8 @@ I'm currently navigating through the relm of Blockchain technology and AI
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
   </a>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=samueltuoyo15&theme=dark&hide_border=false)<br/>
+
 
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulsalamamtech&theme=github_dark&show_icons=true" />
@@ -89,6 +91,27 @@ Sincerely,
 >>>Abdulsalam Abdulrahman
 
 ---
+
+
+### 🛠️ Tech Stack
+
+#### 🧠 Backend
+![PHP](https://img.shields.io/badge/PHP-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
+![Motoko](https://img.shields.io/badge/Motoko-%23000000.svg?style=for-the-badge&logo=fiber&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+#### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%23003545.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 💳 Payment & Integrations
+![Stripe](https://img.shields.io/badge/Stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Paystack](https://img.shields.io/badge/Paystack-%230096D6.svg?style=for-the-badge&logo=paystack&logoColor=white)
+![Flutterwave](https://img.shields.io/badge/Flutterwave-%23000000.svg?style=for-the-badge&logo=flutterwave&logoColor=white)
+![Moniepoint](https://img.shields.io/badge/Moniepoint-%231572B6.svg?style=for-the-badge)
 
 **Contact Me**
 
