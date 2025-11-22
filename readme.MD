@@ -34,20 +34,19 @@ I'm currently navigating through the relm of Blockchain technology and AI
 
 <div align="center">
   <br>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamamtech&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-
- <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  </a>
-
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulsalamamtech&theme=github_dark&show_icons=true" />
   </a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abdulsalamamtech&theme=dark&hide_border=false)<br/>
 
+ <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abdulsalamamtech&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsalamamtech&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
 </div> 
    
 <br>
