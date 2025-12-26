@@ -28,7 +28,7 @@
 
 Software Engineer & Tech Educator | Building Scalable Systems & Mentoring Builders
 
-    I am a Software Engineer specializing in backend architecture and database optimization. My focus is on engineering seamless, secure, and scalable solutions that solve real-world business challenges.
+I am a Software Engineer specializing in backend architecture and database optimization. My focus is on engineering seamless, secure, and scalable solutions that solve real-world business challenges.
 
 
 <div align="center">
@@ -83,9 +83,9 @@ Software Engineer & Tech Educator | Building Scalable Systems & Mentoring Builde
 
 Technical Toolkit: > * Backend: Laravel, PHP, MySQL, RESTful APIs
 
-    Frontend: JavaScript, JQuery, Tailwind CSS
+Frontend: JavaScript, JQuery, Tailwind CSS
 
-    DevOps: VPS Management, GitHub VCS
+DevOps: VPS Management, GitHub VCS
 
 I don't just write code; I design the systems that allow innovation to scale.
 
