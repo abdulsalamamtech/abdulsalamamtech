@@ -23,7 +23,7 @@
 >>>**Greetings,**
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Abdulsalam;I%27m+a+Software%20Developer;You%27re+Welcome!+%E3%83%84)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c1c9c&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+Abdulsalam;I%27m+a+Software%20Developer;I%27m+a+Tech%20Educator;You%27re+Welcome!+%E3%83%84)
 
 
 Software Engineer & Tech Educator | Building Scalable Systems & Mentoring Builders
@@ -81,7 +81,9 @@ I am a Software Engineer specializing in backend architecture and database optim
 
 💡 Mentorship: As a Tech Educator, I’ve spent my career bridging the gap between "learning to code" and "engineering software." I focus on teaching clean code, version control, and system efficiency.
 
-Technical Toolkit: > * Backend: Laravel, PHP, MySQL, RESTful APIs
+**Technical Toolkit**
+
+Backend: Laravel, PHP, MySQL, RESTful APIs
 
 Frontend: JavaScript, JQuery, Tailwind CSS
 
